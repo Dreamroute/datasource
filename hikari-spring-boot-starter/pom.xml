@@ -8,13 +8,7 @@
     </parent>
 
     <artifactId>hikari-spring-boot-starter</artifactId>
-    <name>datasource</name>
-    <url>https://github.com/Dreamroute/${project.name}</url>
-    <scm>
-        <connection>${project.url}</connection>
-        <developerConnection>${project.url}</developerConnection>
-        <url>${project.url}</url>
-    </scm>
+    <name>${project.artifactId}</name>
 
     <build>
         <plugins>
