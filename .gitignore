@@ -33,3 +33,6 @@ build/
 .vscode/
 /mvnw.cmd
 /mvnw
+/datasource-sample/.flattened-pom.xml
+/hikari-spring-boot-starter/.flattened-pom.xml
+/.flattened-pom.xml
