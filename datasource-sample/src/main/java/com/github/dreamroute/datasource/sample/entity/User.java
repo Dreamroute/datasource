@@ -5,7 +5,7 @@ import com.github.dreamroute.mybatis.pro.core.annotations.Table;
 import lombok.Data;
 
 @Data
-@Table(name = "smart_user")
+@Table("smart_user")
 public class User {
 
     @Id
