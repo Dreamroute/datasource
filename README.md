@@ -5,6 +5,7 @@
   <version>latest version</version>
 </dependency>
 ```
+最新版本：[点击查看](https://search.maven.org/artifact/com.github.dreamroute/hikari-spring-boot-starter)
 
 ```
 spring.datasource.hikari.driver-class-name=com.mysql.cj.jdbc.Driver
