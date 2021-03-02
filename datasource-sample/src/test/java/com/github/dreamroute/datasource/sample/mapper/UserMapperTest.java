@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SpringBootTest
-public class UserMapperTest {
+class UserMapperTest {
 
     @Autowired
     private UserMapper userMapper;
@@ -16,7 +16,7 @@ public class UserMapperTest {
     @Test
     void selectByIdTest() {
         User user = userMapper.selectById(1L);
-        assertEquals("w.dehai", user.getName());
+        assertEquals("w.dehi", user.getName());
     }
 
 }
