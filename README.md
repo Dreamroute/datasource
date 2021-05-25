@@ -9,7 +9,7 @@
 
 ```
 spring.datasource.hikari.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.datasource.hikari.jdbc-url=jdbc:mysql://172.16.0.247:3306/smart?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&useOldAliasMetadataBehavior=true&useSSL=false
+spring.datasource.hikari.jdbc-url=jdbc:mysql://172.16.1.55:3306/smart?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&useOldAliasMetadataBehavior=true&useSSL=false
 spring.datasource.hikari.username=root
-spring.datasource.hikari.password=xxx
+spring.datasource.hikari.password=123456
 ```
